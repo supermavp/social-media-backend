@@ -1,6 +1,6 @@
-# Proyecto de Autenticación
+# Proyecto
 
-Este proyecto implementa un módulo de autenticación utilizando Clean Architecture y Hexagonal Architecture. A continuación se describen las principales carpetas y archivos del módulo de autenticación.
+Este proyecto implementa un módulo de autenticación utilizando Clean Architecture. A continuación se describen las principales carpetas y archivos del módulo de autenticación.
 
 ## Estructura del Proyecto
 
